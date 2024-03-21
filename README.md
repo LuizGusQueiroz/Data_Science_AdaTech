@@ -1,2 +1,3 @@
 # Formação DataSciente AdaTech
-Resolução das listas de exercícios dos cursos da formação em Ciência de Dados da AdaTech
+
+Projetos e resoluções de exercícios ao longo da formação em DataSciente AdaTech em parceria com Santandes.
